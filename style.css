@@ -4,6 +4,11 @@
     margin: 0;
     box-sizing: border-box;
 }
+body {
+    background: #0F2027;
+    background: -webkit-linear-gradient(#2C5364, #203A43, #0F2027);
+    background: linear-gradient(#2C5364, #203A43, #0F2027);
+}
 .titlebar {
     position: sticky;
     top: 0;
