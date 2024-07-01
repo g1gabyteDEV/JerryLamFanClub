@@ -12,3 +12,6 @@
     justify-content: left;
     align-items: center;
 }
+.titlebar div {
+    padding: 0 2vw;
+}
